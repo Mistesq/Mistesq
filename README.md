@@ -1,16 +1,14 @@
-## Hi there 👋
+### Oleksii Shapovalov
 
-<!--
-**Mistesq/Mistesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer (React / Node.js / TypeScript), building production web
+products since 2020: e-commerce storefronts and B2B platforms.
 
-Here are some ideas to get you started:
+Currently: **[CodeVault](https://github.com/Mistesq/codevault)** — an AI-powered
+snippet manager built through a spec-driven agentic workflow (39 feature specs,
+4 custom Claude Code review subagents, 490+ tests, CI).
+[Live demo](https://codevault-gray.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** TypeScript · React · Next.js · Node.js · Prisma · PostgreSQL · GraphQL
+**Interests:** spec-driven & AI-assisted development, web performance (Core Web Vitals)
+
+[LinkedIn](https://www.linkedin.com/in/oleksii-shapovalov-006b27189/) · mistesqr@gmail.com
