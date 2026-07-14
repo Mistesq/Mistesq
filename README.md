@@ -8,7 +8,7 @@ snippet manager built through a spec-driven agentic workflow (39 feature specs,
 4 custom Claude Code review subagents, 490+ tests, CI).
 [Live demo](https://codevault-gray.vercel.app)
 
-**Stack:** TypeScript · React · Next.js · Node.js · Prisma · PostgreSQL · GraphQL
+**Stack:** TypeScript · React · Next.js · Node.js · Prisma · PostgreSQL · GraphQL<br>
 **Interests:** spec-driven & AI-assisted development, web performance (Core Web Vitals)
 
 [LinkedIn](https://www.linkedin.com/in/oleksii-shapovalov-006b27189/) · mistesqr@gmail.com
